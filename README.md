@@ -12,3 +12,5 @@ Serves as the UI, implemented using React.
 4) cd mern_user/client
 5) npm install
 6) npm run dev
+
+Tutorial followed: https://www.youtube.com/watch?v=4nKWREmCvsE&t=168s
